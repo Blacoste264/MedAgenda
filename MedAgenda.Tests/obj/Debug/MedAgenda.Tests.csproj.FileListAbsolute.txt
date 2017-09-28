@@ -68,6 +68,7 @@ C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\b
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.WebPages.dll
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\EntityFramework.dll
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\MedAgenda.pdb
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\MedAgenda.dll.config
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
@@ -83,6 +84,7 @@ C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\b
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\bin\Debug\EntityFramework.xml
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\obj\Debug\MedAgenda.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\obj\Debug\MedAgenda.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Britt\Documents\Visual Studio 2017\Projects\MedAgenda\MedAgenda.Tests\obj\Debug\MedAgenda.Tests.dll

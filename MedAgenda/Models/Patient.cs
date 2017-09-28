@@ -1,12 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MedAgenda
+namespace MedAgenda.Models
 {
     public class Patient
     {
+        public int PatientId { get; set; }
+
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
         public string LastName { get; set; }
@@ -18,7 +19,9 @@ namespace MedAgenda
         public string MobilePhone { get; set; }
         public string HomePhone { get; set; }
         public DateTime DOB { get; set; }
-        public string ConsentForCare{ get; set; }
+        public string ConsentForCare { get; set; }
         public string ConsentForText { get; set; }
+
     }
 }
+    
